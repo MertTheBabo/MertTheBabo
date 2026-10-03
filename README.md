@@ -2,11 +2,11 @@
 
 # Mert Erdem Elmacı
 
-**Bilgisayar Programcılığı Mezunu**
+**Bilgisayar Programcısı · IT Destek · Sistem & Ağ · Yazılım**
 
-BT Destek · Sistem ve Ağ · Bulut Teknolojileri · Yazılım ve Yapay Zekâ
+Kocaeli, Türkiye · İş fırsatlarına açık
 
-[**Kişisel Web Sitem ↗**](https://mertthebabo.github.io/) &nbsp; • &nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/mert-erdem-elmac%C4%B1-83bb87357/)
+[**Web sitem ↗**](https://mertthebabo.github.io/) &nbsp;•&nbsp; [**Özgeçmiş (PDF) ↗**](https://mertthebabo.github.io/cv/mert-erdem-elmaci-cv.pdf) &nbsp;•&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/mert-erdem-elmac%C4%B1-83bb87357/) &nbsp;•&nbsp; [**E-posta**](mailto:elmacimerterdem@gmail.com)
 
 </div>
 
@@ -14,45 +14,50 @@ BT Destek · Sistem ve Ağ · Bulut Teknolojileri · Yazılım ve Yapay Zekâ
 
 ### Hakkımda
 
-Eskişehir Teknik Üniversitesi Bilgisayar Programcılığı mezunuyum. Kurumsal BT süreçlerinde edindiğim deneyimi yazılım geliştirme ve yapay zekâ alanındaki ilgimle birleştirerek kendimi geliştiriyorum.
+Eskişehir Teknik Üniversitesi Bilgisayar Programcılığı mezunuyum. Ford Otosan'daki BT stajımda kullanıcı destek ve Cloud ekiplerinin çalışmalarını yerinde gözlemledim; bilgisayar kurulumu ve donanım kontrollerinde uygulamalı deneyim kazandım.
 
-**Hedefim:** DGS ile Bilgisayar Mühendisliği eğitimine geçiş yapmak ve yazılım, yapay zekâ ve bilgisayar teknolojileri alanlarında üretken bir kariyer oluşturmak.
-
-### Eğitim
-
-**Eskişehir Teknik Üniversitesi**  
-Bilgisayar Programcılığı — Önlisans | Eylül 2024 – Haziran 2026
+IT destek, sistem & ağ ve yazılım alanlarında iş fırsatlarına açığım. Uzun vadede DGS ile Bilgisayar Mühendisliğine geçmeyi hedefliyorum.
 
 ### Deneyim
 
 | Görev | Kurum | Dönem |
 | :--- | :--- | :--- |
-| BT Stajyeri | Ford Otosan, Gölcük | Haziran – Temmuz 2026 |
-| Ofis Destek Personeli — İŞKUR Gençlik Programı | Eskişehir Teknik Üniversitesi, Bilişim Teknolojileri MYO | Mart – Temmuz 2025 |
+| Bilgi Teknolojileri Stajyeri | Ford Otosan · Gölcük Fabrikası, Kocaeli | Haziran – Temmuz 2026 |
+| Ofis Destek Personeli (yarı zamanlı) | Eskişehir Teknik Üniversitesi · İŞKUR Gençlik Programı | Mart – Temmuz 2025 |
 
-**Ford Otosan:** Donanım kontrolleri, bilgisayar kurulumu ve kurumsal profillerle macOS kurulumu süreçlerine destek oldum. BT destek süreçlerini gözlemledim; Microsoft Azure sanal makineleri ve kurumsal bulut altyapısı hakkında bilgi edindim.
+- **Ford Otosan:** Çözüm Merkezi (kullanıcı destek) ve Cloud ekiplerinin süreçlerini gözlemledim. Bilgisayar kurulumu, donanım kontrolü, macOS kurulumu ve kurumsal profil yüklemelerine destek verdim; Microsoft Azure ve sanal makineler hakkında bilgi edindim.
+- **ESTÜ:** Kurum web sitesindeki iyileştirme alanlarının belirlenmesine katkı sağladım; kullanıcı deneyimi, içerik düzenleme ve site güncellemelerinde ekiple çalıştım.
 
-**İŞKUR Gençlik Programı:** Ekip çalışmasıyla web sitesi analizlerine, kullanıcı deneyimi ve içerik iyileştirme önerilerine, içerik güncellemelerine ve ofis süreçlerine katkıda bulundum.
+### Eğitim
 
-### İlgi ve Gelişim Alanlarım
+**Eskişehir Teknik Üniversitesi** — Bilgisayar Programcılığı (Önlisans) · Eylül 2024 – Haziran 2026 · Mezun
 
-- **Yazılım:** C#, C++, algoritmalar ve web geliştirme
-- **BT:** Bilgisayar donanımı, sorun çözme, sistem ve ağ
-- **Bulut:** Bulut bilişim ve Microsoft Azure
-- **Yapay zekâ:** Yapay zekâ uygulamaları ve prompt mühendisliği
-- **Birlikte çalışma:** İletişim, ekip çalışması ve kullanıcı deneyimi
+### Yetkinlikler
+
+| Alan | |
+| :--- | :--- |
+| **Yazılım** | C# · C++ · Python · HTML / CSS / JavaScript · Git & GitHub · Algoritmalar · Veri tabanı |
+| **IT & Sistem** | Donanım & arıza tespiti · Windows · İşletim sistemleri · Bilgisayar ağları · Sunucular |
+| **Yapay Zekâ** | Prompt mühendisliği · Üretken yapay zekâ araçları |
+| **Diller** | Türkçe (anadil) · İngilizce (okuma iyi, konuşma temel) |
 
 ### Sertifikalar
 
-- **Prompt Mühendisliği** — BTK Akademi | Ağustos 2026
-- **Bilgi Teknolojilerine Giriş** — BTK Akademi | Ekim 2025
+- **Versiyon Kontrolleri: Git ve GitHub** — BTK Akademi · Ekim 2026
+- **Prompt Mühendisliği** — BTK Akademi · Ağustos 2026
+- **10 Parmak Klavye Kursu** — Udemy · Nisan 2026
+- **İşletim Sistemlerine Giriş** — BTK Akademi · Ekim 2025
+- **Bilgi Teknolojilerine Giriş** — BTK Akademi · Ekim 2025
 
-### Öne Çıkan Projem
+### Projeler
 
-**[Kişisel Portfolyo Web Sitem](https://mertthebabo.github.io/)**  
-Eğitimimi, deneyimlerimi ve kariyer hedeflerimi bir araya getiren kişisel web sitesi. HTML, CSS ve JavaScript ile hazırlanmış, GitHub Pages üzerinde yayınlanmıştır.
+**[Kişisel portfolyo web sitesi](https://mertthebabo.github.io/)** · [Kaynak kod ↗](https://github.com/MertTheBabo/mertthebabo.github.io)
 
-[Siteyi ziyaret et ↗](https://mertthebabo.github.io/) · [Proje dosyalarını incele ↗](https://github.com/MertTheBabo/mertthebabo.github.io)
+Eğitimimi, deneyimimi ve kariyer hedeflerimi tek bir yerde sunan, framework kullanmadan geliştirdiğim site.
+
+- HTML · CSS · JavaScript · Git · GitHub Pages
+- Koyu/açık tema, klavye ve ekran okuyucu desteği, mobil uyum, iletişim formu
+- Lighthouse (mobil): Performans 98 · Erişilebilirlik 100 · SEO 100
 
 ---
 
